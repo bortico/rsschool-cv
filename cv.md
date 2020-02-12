@@ -42,3 +42,4 @@ As a Business Analysis Manager responsible for providing insightful and actionab
 **English** 
 
 - Fluent English, passed IELTS and studied abroad and practices english during my univeristy time.
+- Mentoring English Speaking club within the alem school
