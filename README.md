@@ -1,1 +1,1 @@
-https://your-github-account.github.io/rsschool-cv/cv
+[linktocv](https://bortico.github.io/rsschool-cv/cv)
